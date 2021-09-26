@@ -1,0 +1,26 @@
+*{
+    /* background-color: red; */
+}
+.box{
+    display: flex;
+    flex-direction: column;
+}
+#sec1{
+    height: 770px;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+}
+#heading1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 18px;
+}
+#head3{
+    font-size: 14px;
+}
+.nav li a{
+    padding: 5px 3px;
+}
